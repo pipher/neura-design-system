@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -71,3 +72,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# neura-design-system
+A modern design system for AI-powered creative tools
+>>>>>>> 65acf66d64f8128108dcb06b6c2cca0ee55f3bc1
